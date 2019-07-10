@@ -1,0 +1,3 @@
+#classroom:
+#    type: rest
+#    resource: App\Controller\NewClassroomController

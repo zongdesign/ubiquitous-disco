@@ -1,0 +1,20 @@
+-
+    name: music
+    is_active: 1
+    reference: classroom_music
+-
+    name: fisica
+    is_active: 1
+    reference: classroom_fisica
+-
+    name: english
+    is_active: 1
+    reference: classroom_english
+-
+    name: maths
+    is_active: 1
+    reference: classroom_maths
+-
+    name: vocal
+    is_active: 0
+    reference: classroom_vocal
